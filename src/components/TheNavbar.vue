@@ -3,7 +3,6 @@
     <h3>
       Freelance
     </h3>
-
     <ul class="navbar-menu">
       <li>
         <router-link to="/">Все задачи</router-link>
@@ -14,9 +13,3 @@
     </ul>
   </nav>
 </template>
-
-<script>
-export default {
-
-}
-</script>
