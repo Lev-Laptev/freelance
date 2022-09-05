@@ -1,6 +1,8 @@
 # vue-freelance
 
-### View: [Click](https://vue-freelance.netlify.app/)
+## Demo
+
+View: [Click](https://vue-freelance.netlify.app/)
 
 ## Table of Contents
 
